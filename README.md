@@ -6,11 +6,6 @@ By day I'm a project engineer on a federal construction contract. On the side I 
 
 I find where a process is leaking, then build the thing that fixes it.
 
-**Building now**
-- [notes-to-notion](https://github.com/ka1saucedo/notes-to-notion): Apple Notes in, an AI agent translates, Notion out. Local redaction and a human approval step before anything lands.
-- **Agent stack:** orchestrators and subagents with shared, persistent memory (Obsidian over MCP), running repetitive work and live site operations.
-- [kaisaucedo.com](https://github.com/ka1saucedo/kaisaucedo.com): my portfolio.
-
 **Shipped**
 - **Loan origination platform** for FLS Capital Advisors. Intake, prequalification, document portal, e-signatures, and a staff pipeline. Live with real applicants. Client code, so it's private: [walkthrough here](https://kaisaucedo.com/lending.html).
 - **Labor reporting automation** that replaced a construction department's manual weekly reporting across six projects.
