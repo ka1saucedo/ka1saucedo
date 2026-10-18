@@ -2,7 +2,7 @@
 
 Mechanical engineer building software and systems in Honolulu, Hawaiʻi.
 
-By day I'm a project engineer on a federal construction contract. On the side I ship web apps, automations, and agent workflows, and I co-founded [ʻIwa Media](https://iwamedia.com), a digital studio for small businesses.
+By day I'm a project engineer on a federal construction contract. On the side I ship web apps, automations, and agent workflows.
 
 I find where a process is leaking, then build the thing that fixes it.
 
