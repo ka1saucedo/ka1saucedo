@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Kai
 
-<!--
-**ka1saucedo/ka1saucedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical engineer building software and systems in Honolulu, Hawaiʻi.
 
-Here are some ideas to get you started:
+By day I'm a project engineer on a federal construction contract. On the side I ship web apps, automations, and agent workflows, and I co-founded [ʻIwa Media](https://iwamedia.com), a digital studio for small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I find where a process is leaking, then build the thing that fixes it.
+
+**Building now**
+- [notes-to-notion](https://github.com/ka1saucedo/notes-to-notion): Apple Notes in, an AI agent translates, Notion out. Local redaction and a human approval step before anything lands.
+- **Agent stack:** orchestrators and subagents with shared, persistent memory (Obsidian over MCP), running repetitive work and live site operations.
+- [kaisaucedo.com](https://github.com/ka1saucedo/kaisaucedo.com): my portfolio.
+
+**Shipped**
+- **Loan origination platform** for FLS Capital Advisors. Intake, prequalification, document portal, e-signatures, and a staff pipeline. Live with real applicants. Client code, so it's private: [walkthrough here](https://kaisaucedo.com/lending.html).
+- **Labor reporting automation** that replaced a construction department's manual weekly reporting across six projects.
+
+**Stack:** TypeScript · React · Next.js · Postgres · Supabase · Python · Claude Code · MCP · Docker
+
+[kaisaucedo.com](https://kaisaucedo.com) · [LinkedIn](https://linkedin.com/in/kaisaucedo) · [X](https://x.com/ka1saucedo) · [Email](mailto:ka1saucedo@outlook.com)
