@@ -9,4 +9,4 @@ By day I'm a project engineer on a federal construction contract. On the side I 
 **Data and infra:** PostgreSQL · Supabase · Docker · Git · Linux · Vercel  
 **AI:** Orchestrators · Agents/Subagents · MCP · Skills · Claude Code
 
-[kaisaucedo.com](https://kaisaucedo.com) · [LinkedIn](https://linkedin.com/in/kaisaucedo) · [X](https://x.com/ka1saucedo) · [Email](mailto:ka1saucedo@outlook.com)
+[kaisaucedo.com](https://kaisaucedo.com) · [ʻIwa Media](https://iwamedia.com) · [LinkedIn](https://linkedin.com/in/kaisaucedo) · [X](https://x.com/ka1saucedo) · [Email](mailto:ka1saucedo@outlook.com)
